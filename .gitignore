@@ -1,0 +1,8 @@
+*.DS_Store
+*.classpath
+*.project
+*.settings
+*.log
+*.swp
+AdvGraph1718/OpenGL Demos/bin/
+
